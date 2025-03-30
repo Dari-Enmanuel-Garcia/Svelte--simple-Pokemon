@@ -1,0 +1,1 @@
+# Solo es consumo de la PokeApi, quería familiarizarme con Svelte, es un framework bastante amigable para los que les gusta el vanillaJs + las mejoras que ofrece un framework, por lo que escribir JavaScript y manipular elementos fue extremadamente fácil.
